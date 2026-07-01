@@ -115,3 +115,6 @@ This is a trained model, not a production system. Before deployment, it would ne
 ## Tech Stack
 
 Python, pandas, numpy, scikit-learn, imbalanced-learn (SMOTE), XGBoost, matplotlib, seaborn, joblib.
+
+## video link
+https://drive.google.com/drive/u/0/folders/1G97R_D0Z4Hzmu_eLgGLRcCuF687l7tBL
